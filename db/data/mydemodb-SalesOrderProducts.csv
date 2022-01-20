@@ -1,0 +1,9 @@
+salesOrder_soNumber,supplier,orderQty,availableQty,orderDate,Status,location,deliveryDate
+500009101,Sydney,4,6,2021-06-15T19:34:03Z,Available,2,2021-06-15
+500009101,new York,5,7,2021-06-15T19:34:03Z,Available,3,2021-06-15
+500009104,George,6,6,2021-06-15T19:34:03Z,Available,2,2021-06-15
+500009104,Brandon,,6,2021-06-15T19:34:03Z,Available,1,2021-06-15
+500009104,Jacob,4,6,2021-06-15T19:34:03Z,Available,2,2021-06-15
+500009107,Jason,3,6,2021-08-15T15:00:03Z,NotAvailable,3,2021-06-15
+500009105,bahamas,2,6,2021-08-15T15:00:03Z,NotAvailable,1,2021-06-15
+500009107,Joe,1,6,2021-08-15T15:00:03Z,NotAvailable,2,2021-06-15
